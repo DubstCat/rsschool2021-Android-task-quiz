@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+    <string name="subject">Quiz results</string>
+
+    <string name="question1">
+        How many oceans there are in the world?
+    </string>
+    <string name="answer11">6</string>
+    <string name="answer12">5</string>
+    <string name="answer13">4</string>
+    <string name="answer14">3</string>
+    <string name="answer15">2</string>
+
+    <string name="question2">
+        2 + 2 * 2 = ?
+    </string>
+    <string name="answer21">666</string>
+    <string name="answer22">12</string>
+    <string name="answer23">6</string>
+    <string name="answer24">9</string>
+    <string name="answer25">8</string>
+
+    <string name="question3">
+       Who wrote "Romeo and Juliet?
+    </string>
+    <string name="answer31">Alexander Lukashenko</string>
+    <string name="answer32">Alexander Pushkin</string>
+    <string name="answer33">William Shakespeare</string>
+    <string name="answer34">Friedrich Nietzsche</string>
+    <string name="answer35">Platon</string>
+
+    <string name="question4">
+        What year did London metro appeared?
+    </string>
+    <string name="answer41">1855</string>
+    <string name="answer42">1900</string>
+    <string name="answer43">1997</string>
+    <string name="answer44">1863</string>
+    <string name="answer45">1877</string>
+
+    <string name="question5">
+        What is the planet nearest to sun?
+    </string>
+    <string name="answer51">Venus</string>
+    <string name="answer52">Nibiru</string>
+    <string name="answer53">Mars</string>
+    <string name="answer54">Jupiter</string>
+    <string name="answer55">Mercury</string>
+
+    <string name="question6">
+        What the language for Android development is officially supported by Google?
+    </string>
+    <string name="answer61">Kotlin</string>
+    <string name="answer62">Python</string>
+    <string name="answer63">Java</string>
+    <string name="answer64">C#</string>
+    <string name="answer65">Persian</string>
+
+    <string name="question7">
+        In which country was born Arnold Schwarzenegger?
+    </string>
+    <string name="answer71">Germany</string>
+    <string name="answer72">Austria</string>
+    <string name="answer73">Japan</string>
+    <string name="answer74">Korea</string>
+    <string name="answer75">Russia</string>
+
+    <string name="question8">
+        What is the result of "x xor y" when x = 0 and у = 1?
+    </string>
+    <string name="answer81">1</string>
+    <string name="answer82">0</string>
+    <string name="answer83">-1</string>
+    <string name="answer84">-2</string>
+    <string name="answer85">2</string>
+
+    <string name="question9">
+        Who was the ruler of The Third Reich in 1944?
+    </string>
+    <string name="answer91">Otto fon Bismark</string>
+    <string name="answer92">Joseph Goebbels</string>
+    <string name="answer93">Adolf Hitler</string>
+    <string name="answer94">Arnold Schwarzenegger</string>
+    <string name="answer95">47</string>
+
+    <string name="question10">
+        How much questions there are in this quiz?
+    </string>
+    <string name="answer101">5</string>
+    <string name="answer102">6</string>
+    <string name="answer103">10</string>
+    <string name="answer104">11</string>
+    <string name="answer105">12</string>
+</resources>
